@@ -1,0 +1,3 @@
+hello 
+thiss is file3
+my country
